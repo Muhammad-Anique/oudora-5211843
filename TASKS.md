@@ -7,7 +7,7 @@
 
 ## Tasks
 
-- [ ] **Task 1: Initialize Next.js project**
+- [x] **Task 1: Initialize Next.js project**
   Create `package.json` (next, react, react-dom, typescript, tailwindcss, @supabase/supabase-js), `next.config.ts`, `tsconfig.json`, and `.gitignore`. Commit: `chore: initialize Next.js project`.
 
 - [ ] **Task 2: Configure Tailwind CSS**
